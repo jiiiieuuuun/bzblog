@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dk-bmc/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/mypost/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/datetest/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/dkbmc/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/development/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/hugo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/hugo-setting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/test1/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/hugofy/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/go/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/new/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/templates/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/test2/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/themes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/test/</loc>
+  </url>
+  
+</urlset>

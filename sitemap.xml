@@ -3,17 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jiiiieuuuun.github.io/bzblog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jiiiieuuuun.github.io/bzblog/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiiiieuuuun.github.io/bzblog/tags/dk-bmc/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiiiieuuuun.github.io/bzblog/post/mypost/</loc>
   </url>
   
   <url>
@@ -35,11 +31,6 @@
   </url>
   
   <url>
-    <loc>https://jiiiieuuuun.github.io/bzblog/categories/hugo-setting/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jiiiieuuuun.github.io/bzblog/post/</loc>
     <priority>0</priority>
   </url>
@@ -50,11 +41,6 @@
   
   <url>
     <loc>https://jiiiieuuuun.github.io/bzblog/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiiiieuuuun.github.io/bzblog/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>Technology</title>
+    <link>https://jiiiieuuuun.github.io/bzblog/</link>
+    <description>Recent content on Technology</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©DKBMC. All rights reserved. Powered by GitHub Pages.</copyright>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jiiiieuuuun.github.io/bzblog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DK BMC 기술블로그</title>
-      <link>/post/mypost/</link>
+      <link>https://jiiiieuuuun.github.io/bzblog/post/mypost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/mypost/</guid>
+      <guid>https://jiiiieuuuun.github.io/bzblog/post/mypost/</guid>
       <description>1. DKBMC  배달의민족 앱의 각 페이지들의 정보는 API를 호출해서 데이터를 가져온 후 사용자에게 정보를 노출하게 되는데 해당 페이지 정보의 데이터 고도화 및 신규 기능으로 인하여 API 주소가 변경 되어야 할 경우가 있습니다. 그래서 개발중인 프로젝트 테스트를 위해 API 주소 변경에 대한 요청이 발생되는데 그럴때 마다 프로젝트 환경에 맞춰서 앱에서 API들을 재설정을 해서 배포하게 됩니다. 문제는 다수의 프로젝트에서 API 주소 변경 요청 건들이 온다면? 각각의 프로젝트를 위해 API 정보들을 재설정 후 빌드 배포하는 행위를 반복적으로 하게 될겁니다.</description>
     </item>
     
     <item>
       <title>Date test</title>
-      <link>/post/datetest/</link>
+      <link>https://jiiiieuuuun.github.io/bzblog/post/datetest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/datetest/</guid>
+      <guid>https://jiiiieuuuun.github.io/bzblog/post/datetest/</guid>
       <description>1. 사용법 기울이기 기울어짐 두꺼움 두껍다 동시에 두꺼우면서 기울어짐 취소할거임 취소 밑줄 밑줄쫙 sdflkasdmlfk asldkmfalskdfm asldkmfalsdkf alsdkfmalsdk alsdkfmalskd asldkfmalskd asldkfmlks asdlkfmlk asldkfmalksd alsdkfmlk asldkmlk asdlkmlkm
 google</description>
     </item>
     
     <item>
       <title>Default .md 테스트</title>
-      <link>/post/dkbmc/</link>
+      <link>https://jiiiieuuuun.github.io/bzblog/post/dkbmc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/dkbmc/</guid>
+      <guid>https://jiiiieuuuun.github.io/bzblog/post/dkbmc/</guid>
       <description>THIS IS A H1 THIS IS A H2  BlockQuote
   BlockQuote2  BlockQuote3  BlockQuote3 -- paragraph!paragraph!paragraph!paragraph!paragraph!paragraph!paragraph!paragraph! paragraph!paragraph!paragraph!paragraph!paragraph!paragraph! paragraph!paragraph!paragraph!
 TEST PPP
@@ -43,47 +45,47 @@ this ddd Double Double Cancel  &amp;lt;html&amp;gt; &amp;lt;head&amp;gt;&amp;lt;
     
     <item>
       <title>Real Title</title>
-      <link>/post/test1/</link>
+      <link>https://jiiiieuuuun.github.io/bzblog/post/test1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/test1/</guid>
+      <guid>https://jiiiieuuuun.github.io/bzblog/post/test1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ggggggg</title>
-      <link>/post/hugofy/</link>
+      <link>https://jiiiieuuuun.github.io/bzblog/post/hugofy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/hugofy/</guid>
+      <guid>https://jiiiieuuuun.github.io/bzblog/post/hugofy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>new</title>
-      <link>/post/new/</link>
+      <link>https://jiiiieuuuun.github.io/bzblog/post/new/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/new/</guid>
+      <guid>https://jiiiieuuuun.github.io/bzblog/post/new/</guid>
       <description>1. 사용법 기울이기 기울어짐 두꺼움 두껍다 동시에 두꺼우면서 기울어짐 취소할거임 취소 밑줄 밑줄쫙 sdflkasdmlfk asldkmfalskdfm asldkmfalsdkf alsdkfmalsdk alsdkfmalskd asldkfmalskd asldkfmlks asdlkfmlk asldkfmalksd alsdkfmlk asldkmlk asdlkmlkm
 google</description>
     </item>
     
     <item>
       <title>test</title>
-      <link>/post/test2/</link>
+      <link>https://jiiiieuuuun.github.io/bzblog/post/test2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/test2/</guid>
+      <guid>https://jiiiieuuuun.github.io/bzblog/post/test2/</guid>
       <description>1. Title &amp;lt;section id=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;#34;title&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Pages }} {{ .Render &amp;#34;summary&amp;#34;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt; dddddd</description>
     </item>
     
     <item>
       <title>테스트 코드</title>
-      <link>/post/test/</link>
+      <link>https://jiiiieuuuun.github.io/bzblog/post/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/test/</guid>
+      <guid>https://jiiiieuuuun.github.io/bzblog/post/test/</guid>
       <description>1. Coding html &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;ldquo;en&amp;rdquo;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;ldquo;UTF-8&amp;rdquo;&amp;gt; &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;ldquo;en&amp;rdquo;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;ldquo;UTF-8&amp;rdquo;&amp;gt; &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
     </item>
     

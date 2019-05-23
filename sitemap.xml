@@ -3,105 +3,105 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/tags/dk-bmc/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/dk-bmc/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/post/mypost/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiiiieuuuun.github.io/bzblog/post/datetest/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiiiieuuuun.github.io/bzblog/post/dkbmc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiiiieuuuun.github.io/bzblog/categories/development/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/mypost/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/datetest/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/dkbmc/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/development/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/categories/hugo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/hugo/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/categories/hugo-setting/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/hugo-setting/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/post/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/post/test1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiiiieuuuun.github.io/bzblog/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/test1/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/tags/development/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/hugofy/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/post/hugofy/</loc>
   </url>
   
   <url>
-    <loc>/tags/go/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/tags/go/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/golang/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/categories/golang/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/tags/golang/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/new/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/post/new/</loc>
   </url>
   
   <url>
-    <loc>/tags/templates/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/tags/templates/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/test2/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/post/test2/</loc>
   </url>
   
   <url>
-    <loc>/tags/themes/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/tags/themes/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/test/</loc>
+    <loc>https://jiiiieuuuun.github.io/bzblog/post/test/</loc>
   </url>
   
 </urlset>

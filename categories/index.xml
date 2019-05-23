@@ -1,47 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on </description>
+    <title>Categories on Technology</title>
+    <link>https://jiiiieuuuun.github.io/bzblog/categories/</link>
+    <description>Recent content in Categories on Technology</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©DKBMC. All rights reserved. Powered by GitHub Pages.</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jiiiieuuuun.github.io/bzblog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>/categories/development/</link>
+      <link>https://jiiiieuuuun.github.io/bzblog/categories/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/development/</guid>
+      <guid>https://jiiiieuuuun.github.io/bzblog/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>/categories/hugo/</link>
+      <link>https://jiiiieuuuun.github.io/bzblog/categories/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/hugo/</guid>
+      <guid>https://jiiiieuuuun.github.io/bzblog/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo Setting</title>
-      <link>/categories/hugo-setting/</link>
+      <link>https://jiiiieuuuun.github.io/bzblog/categories/hugo-setting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/hugo-setting/</guid>
+      <guid>https://jiiiieuuuun.github.io/bzblog/categories/hugo-setting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>/categories/golang/</link>
+      <link>https://jiiiieuuuun.github.io/bzblog/categories/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/golang/</guid>
+      <guid>https://jiiiieuuuun.github.io/bzblog/categories/golang/</guid>
       <description></description>
     </item>
     
